@@ -1,0 +1,26 @@
+{
+  "name": "nicholas-cobb-tenth-project-sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "SQL Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas4418/nicholas-cobb-tenth-project-sql-employee-tracker.git"
+  },
+  "author": "Nicholas Cobb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholas4418/nicholas-cobb-tenth-project-sql-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/nicholas4418/nicholas-cobb-tenth-project-sql-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.2.0"
+  }
+}
